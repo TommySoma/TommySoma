@@ -1,6 +1,6 @@
-# Ciao! 👋 Sono Tommaso
+# Ciao! Sono Tommaso
 
-### Neolaureato in Informatica | Appassionato di Sviluppo Software & Web
+### Appassionato di Sviluppo Software & Web
 
 Sono un neolaureato con una solida base teorica e una forte voglia di costruire. Il mio obiettivo è trasformare problemi complessi in codice pulito ed efficiente. Attualmente sono alla ricerca della mia prima opportunità professionale.
 
@@ -27,19 +27,8 @@ Questi sono i linguaggi, i framework e gli strumenti che utilizzo nei miei proge
 
 ---
 
-### Statistiche GitHub
-
-<div align="center">
-<a href="https://github.com/TommySoma">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TommySoma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommySoma&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
-</div>
-
----
-
 ### Contatti
 
-*  **LinkedIn:** www.linkedin.com/in/tommaso-somigli-11714328a
+* **LinkedIn:** www.linkedin.com/in/tommaso-somigli-11714328a
 * **Email:** tommasosomigli19@gmail.com
 
