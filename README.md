@@ -2,7 +2,7 @@
 
 ### Appassionato di Sviluppo Software & Web
 
-Sono un neolaureato con una solida base teorica e una forte voglia di costruire. Il mio obiettivo è trasformare problemi complessi in codice pulito ed efficiente. Attualmente sono alla ricerca della mia prima opportunità professionale.
+Sono laureato in Informatica all'Università di Pisa con una solida base teorica e una forte voglia di costruire. Il mio obiettivo è trasformare problemi complessi in codice pulito ed efficiente. Attualmente sono in Tirocino come Full Stack developer presso Computer Gross (Empoli).
 
 ---
 
