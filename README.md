@@ -8,7 +8,7 @@ Sono laureato in Informatica all'Università di Pisa con una solida base teorica
 
 ### Stack Tecnologico & Competenze
 
-Questi sono i linguaggi, i framework e gli strumenti che utilizzo nei miei progetti accademici e personali.
+Questi sono i linguaggi, i framework e gli strumenti che utilizzo nei miei progetti lavorativi e personali.
 
 #### Linguaggi Core
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C/C++](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
